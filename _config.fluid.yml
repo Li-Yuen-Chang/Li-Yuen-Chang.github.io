@@ -17,11 +17,11 @@ dark_mode:
 
 # Index Page
 index:
-  banner_img: /images/banner.jpg
+  banner_img: /images/IMG_5697.JPG
   banner_img_height: 100
   slogan:
     enable: true
-    text: "Welcome to Your Land_"
+    text: "Welcome to Li-Yuen-Chang's Blog"
 
 # Post Page
 post:

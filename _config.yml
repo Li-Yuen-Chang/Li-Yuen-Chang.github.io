@@ -54,5 +54,5 @@ theme: fluid
 # Deployment
 deploy:
   type: git
-  repo: https://github.com/Li-Yuen-Chang/Li-Yuen-Chang.github.io.git
+  repo: git@github.com:Li-Yuen-Chang/Li-Yuen-Chang.github.io.git
   branch: gh-pages 

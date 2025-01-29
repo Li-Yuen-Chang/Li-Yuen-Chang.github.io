@@ -1,0 +1,49 @@
+# Header
+navbar:
+  blog_title: "Your Blog Name"
+
+# Navigation menu
+menu:
+  Home: /
+  Archives: /archives/
+  Categories: /categories/
+  Tags: /tags/
+  About: /about/
+
+# Dark mode
+dark_mode:
+  enable: true
+  default: auto
+
+# Index Page
+index:
+  banner_img: /images/banner.jpg
+  banner_img_height: 100
+  slogan:
+    enable: true
+    text: "Welcome to Your Land_"
+
+# Post Page
+post:
+  banner_img: /images/banner.jpg
+  banner_img_height: 70
+
+# Archive Page
+archive:
+  banner_img: /images/banner.jpg
+  banner_img_height: 60
+
+# Category Page
+category:
+  banner_img: /images/banner.jpg
+  banner_img_height: 60
+
+# Tag Page
+tag:
+  banner_img: /images/banner.jpg
+  banner_img_height: 60
+
+# About Page
+about:
+  banner_img: /images/banner.jpg
+  banner_img_height: 60
